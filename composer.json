@@ -1,0 +1,15 @@
+{
+    "name": "jakub-klapka/wp-delete-attachements-with-post",
+    "type": "library",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Jakub Klapka",
+            "email": "klapka@lumiart.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "JakubKlapka\\WpDeleteAttachmentsWithPost\\" : "src"}
+    },
+    "require": {}
+}
